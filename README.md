@@ -54,10 +54,10 @@ pip install openai matplotlib numpy
 
 Install the Skywork PRM helper package:
 
-```bash
-cd external/skywork_o1_prm_inference
+```
+git clone https://github.com/SkyworkAI/skywork-o1-prm-inference.git
+cd skywork-o1-prm-inference
 pip install -e .
-cd ../..
 ```
 
 ## Model Services

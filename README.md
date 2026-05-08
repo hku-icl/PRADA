@@ -60,9 +60,7 @@ pip install -e .
 cd ../..
 ```
 
-
 ## Model Services
-
 PRADA talks to local vLLM servers through OpenAI-compatible API endpoints. The default ports are:
 
 ```text

@@ -276,3 +276,19 @@ This project uses or builds on:
 - Skywork-o1-Open-PRM
 - vLLM OpenAI-compatible APIs
 
+## Citation
+
+If you find this project useful, please cite:
+
+```bibtex
+@article{202605.0251,
+	doi = {10.20944/preprints202605.0251.v1},
+	url = {https://doi.org/10.20944/preprints202605.0251.v1},
+	year = 2026,
+	month = {May},
+	publisher = {Preprints},
+	author = {Tianji He and Yulin Shao and Fen Hou},
+	title = {Accelerating Heterogeneous Agent Collaboration in Dynamic Edge Networks},
+	journal = {Preprints}
+}
+```
